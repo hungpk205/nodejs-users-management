@@ -1,0 +1,19 @@
+{
+  "name": "users-management",
+  "version": "1.0.0",
+  "description": "CRUD users managenent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pkhung",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.3.1",
+    "morgan": "^1.10.0"
+  }
+}
